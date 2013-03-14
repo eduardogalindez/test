@@ -1,3 +1,3 @@
 test
-Kobe is hurt :(
+Kobe is hurt and i am too :(
 ====
